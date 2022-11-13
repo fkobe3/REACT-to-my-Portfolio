@@ -3,7 +3,7 @@
 ## Description
 This is an example portfolio site built in React for U.C. Chapel-Hill Bootcamp. This example uses a single-page application (SPA) model, which utilizes page loads in a single view rather than multiple pages. The SPA contains an about section, portfolio, contact, and resume sections. There is a navigation section which allows viewers to change between content is persistent between content changes. The footer is also persistent and contains links to social media sites. 
 
-The site can be viewed on Github pages [here](https://github.com/fkobe3/REACT-to-my-Portfolio). 
+The site can be viewed on Github pages [here](https://fkobe3.github.io/REACT-to-my-Portfolio/). 
 
 ## Available Scripts
 
