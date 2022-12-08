@@ -51,5 +51,11 @@
     "image":"neverland-notes.png",
     "deploy":"https://morning-wildwood-54242.herokuapp.com/",
     "repo":"https://github.com/fkobe3/Neverland-Notes"
+  },
+  {
+    "name": "Wedding Site",
+    "image":"Wedding Site.png",
+    "deploy":"https://fkobe3.github.io/Wedding-Site/",
+    "repo":"https://github.com/fkobe3/Wedding-Site"
   }
   ]
